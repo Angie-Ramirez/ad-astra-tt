@@ -6,8 +6,7 @@
 
 Bienvenido a la tienda en línea de telescopios y gadgets de astronomía. Este proyecto tiene como objetivo proporcionar una plataforma en línea para la venta de equipos de astronomía de alta calidad, incluyendo telescopios, accesorios y gadgets. 
 Esta página web está diseñada para ofrecer una experiencia de usuario intuitiva y fácil de usar para los entusiastas de la astronomía que buscan comprar telescopios y otros gadgets. Los usuarios pueden navegar por una amplia gama de productos, leer descripciones detalladas, y realizar compras de manera segura.
-### Índice
-[TOC]
+
 ### Contenido
 **Inicio:** Presentación de la marca y nuestra trayectoria.
 **Cita del día:** Cita de inspiración para el día a día.
